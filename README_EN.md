@@ -1,6 +1,6 @@
 # SOFAArk Samples 
 
-There are two samples totally. The sofa-ark-samples directory shows as following:
+There are two samples totally. The sofa-ark-guides directory shows as following:
 
 ```
 .

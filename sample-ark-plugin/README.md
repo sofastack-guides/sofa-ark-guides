@@ -12,7 +12,7 @@
 * 导出资源：其他插件如果导入了该资源，优先从本插件加载；
 
 
-**[详细请参考插件规范](https://alipay.github.io/sofastack.github.io/docs/ark-plugin.html#插件规范)**
+**[详细请参考插件规范](https://www.sofastack.tech/projects/sofa-boot/sofa-ark-ark-plugin/#%E6%8F%92%E4%BB%B6%E8%A7%84%E8%8C%83)**
 
 
 ## 工具
@@ -26,7 +26,7 @@
 </plugin>
 ```
 
-**[详细请参考插件配置文档](https://alipay.github.io/sofastack.github.io/docs/ark-plugin.html#完整配置模板)**
+**[详细请参考插件配置文档](https://www.sofastack.tech/projects/sofa-boot/sofa-ark-ark-plugin/#%E5%AE%8C%E6%95%B4%E9%85%8D%E7%BD%AE%E6%A8%A1%E6%9D%BF)**
 
 ## 入门
 基于该用例工程，我们一步步描述如何构建一个 `Ark Plugin` 

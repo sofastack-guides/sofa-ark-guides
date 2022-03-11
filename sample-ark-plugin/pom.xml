@@ -14,6 +14,7 @@
 
     <properties>
         <main.user.dir>${user.dir}/..</main.user.dir>
+        <sofa.ark.version>2.0.0-SNAPSHOT</sofa.ark.version>
     </properties>
 
     <modules>

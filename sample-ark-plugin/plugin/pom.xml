@@ -22,7 +22,7 @@
         <dependency>
             <groupId>com.alipay.sofa</groupId>
             <artifactId>sofa-ark-spi</artifactId>
-            <version>0.6.0</version>
+            <version>${sofa.ark.version}</version>
         </dependency>
     </dependencies>
 
@@ -31,7 +31,7 @@
             <plugin>
                 <groupId>com.alipay.sofa</groupId>
                 <artifactId>sofa-ark-plugin-maven-plugin</artifactId>
-                <version>0.6.0</version>
+                <version>${sofa.ark.version}</version>
                 <executions>
                     <execution>
                         <id>default-cli</id>

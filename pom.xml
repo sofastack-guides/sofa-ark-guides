@@ -15,7 +15,7 @@
 
     <properties>
         <spring.boot.version>2.1.0.RELEASE</spring.boot.version>
-        <sofa.ark.version>2.0.1-SNAPSHOT</sofa.ark.version>
+        <sofa.ark.version>2.0.6</sofa.ark.version>
         <project.encoding>UTF-8</project.encoding>
     </properties>
 

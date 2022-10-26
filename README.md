@@ -21,3 +21,8 @@ IDE 里启动是请带上如下参数：
 ```properties
 -Dsofa.ark.embed.enable=true
 ```
+
+如果需要开启类隔离功能请带上如下参数：
+```properties
+-Dsofa.ark.embed.enable=false
+```

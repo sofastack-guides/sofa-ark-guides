@@ -14,7 +14,7 @@
 
     <properties>
         <main.user.dir>${user.dir}/..</main.user.dir>
-        <sofa.ark.version>2.0.6</sofa.ark.version>
+        <sofa.ark.version>2.2.12</sofa.ark.version>
     </properties>
 
     <modules>
